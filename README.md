@@ -6,6 +6,14 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
+
+## 🧠 OJL-macOS-ARM64 (Optimized Port)
+  
+> This repository provides a **macOS ARM64 optimized and Maven-based build**  
+> of the [Open Jazari Library (OJL)](https://github.com/hakmesyo/OJL),  
+> designed for full compatibility with Apple Silicon systems.
+
+
 ## 📘 Overview
 
 OJL (Open Jazari Library) is a comprehensive framework designed for JVM languages, specializing in:
